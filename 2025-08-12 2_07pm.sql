@@ -1,0 +1,1 @@
+select * from SNOWFLAKE.ACCOUNT_USAGE.QUERY_HISTORY where query_id = '01bc86dc-0708-714c-002b-e28308b94aea'
